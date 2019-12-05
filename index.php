@@ -8,6 +8,6 @@ $months = array('Janvier', 'Février', 'Mars', 'Avril', 'Mai', 'Juin', 'Juillet'
     <title>PHP partie3 exo2</title>
   </head>
   <body>
-    <?php echo $months[5]; ?>
+    <p><?php echo $months[5]; ?></p>
   </body>
 </html>
